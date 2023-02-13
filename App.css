@@ -1,0 +1,27 @@
+body {
+    margin: 0%;
+    padding: 0;
+    height: 100vh;
+    
+    background: rgb(148,187,233);
+    background: radial-gradient(circle, rgba(148,187,233,1) 42%, rgba(238,174,202,1) 100%);
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: inline-flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    justify-content: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
